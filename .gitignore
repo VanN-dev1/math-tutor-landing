@@ -1,35 +1,9 @@
-# OS files
 .DS_Store
 Thumbs.db
 desktop.ini
-
-# Editor files
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-
-# Logs
 *.log
 npm-debug.log*
-
-# Temporary files
 *.tmp
 *.temp
-
-# Scripts и служебные файлы (не нужны в репозитории)
-fix-git.ps1
-fix-git.bat
-FIX-GIT-NOW.bat
-init-git.bat
-setup-git.ps1
 *.bat
 *.ps1
-
-# Инструкции и документация (опционально - можно оставить или удалить)
-*ИНСТРУКЦИЯ*.txt
-*РЕШЕНИЕ*.txt
-GIT-BASH-*.txt
-GIT_SETUP.md
-
